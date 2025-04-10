@@ -1,0 +1,274 @@
+Mémoire totale : 4.0 GiB
+Instanciation du bot "Random"
+7 classes ont été trouvées
+class awele.bot.demo.first.FirstBot
+class awele.bot.demo.random.RandomBot
+class awele.bot.demo.last.LastBot
+class awele.bot.demo.minmax.MinMaxBot
+class awele.bot.demo.knn2.Knn2Bot
+class awele.bot.competitor.NegaMax
+class awele.bot.demo.knn1.Knn1Bot
+
+Bot 1/7
+Classe : awele.bot.demo.first.FirstBot
+Instanciation du bot "First"
+Nom du bot : First
+Auteur(s) : Alexandre Blansché
+Temps d'apprentissage : 00:00:00.000
+Durée d'une prise de décision : 00:00:00.000
+Usage mémoire : 0 B
+Usage mémoire maximum : 1.4 MiB
+
+Bot 2/7
+Classe : awele.bot.demo.random.RandomBot
+Instanciation du bot "Random"
+Nom du bot : Random
+Auteur(s) : Alexandre Blansché
+Temps d'apprentissage : 00:00:00.000
+Durée d'une prise de décision : 00:00:00.000
+Usage mémoire : 192 B
+Usage mémoire maximum : 439.8 KiB
+
+Bot 3/7
+Classe : awele.bot.demo.last.LastBot
+Instanciation du bot "Last"
+Nom du bot : Last
+Auteur(s) : Alexandre Blansché
+Temps d'apprentissage : 00:00:00.000
+Durée d'une prise de décision : 00:00:00.000
+Usage mémoire : 856 B
+Usage mémoire maximum : 295.8 KiB
+
+Bot 4/7
+Classe : awele.bot.demo.minmax.MinMaxBot
+Instanciation du bot "MinMax"
+Nom du bot : MinMax
+Auteur(s) : Alexandre Blansché
+Temps d'apprentissage : 00:00:00.000
+Durée d'une prise de décision : 00:00:00.080
+Usage mémoire : 2.1 KiB
+Usage mémoire maximum : 71.0 MiB
+
+Bot 5/7
+Classe : awele.bot.demo.knn2.Knn2Bot
+Instanciation du bot "k-NN2"
+Nom du bot : k-NN2
+Auteur(s) : Alexandre Blansché
+Temps d'apprentissage : 00:00:00.037
+Durée d'une prise de décision : 00:00:00.000
+Usage mémoire : 33.1 KiB
+Usage mémoire maximum : 1.5 MiB
+
+Bot 6/7
+Classe : awele.bot.competitor.NegaMax
+Instanciation du bot "NegaMax"
+Nom du bot : NegaMax
+Auteur(s) : Nicolas BRION
+Temps d'apprentissage : 00:00:00.000
+Durée d'une prise de décision : 00:00:00.090
+Usage mémoire : 344 B
+Usage mémoire maximum : 19.0 MiB
+
+Bot 7/7
+Classe : awele.bot.demo.knn1.Knn1Bot
+Instanciation du bot "k-NN1"
+Nom du bot : k-NN1
+Auteur(s) : Alexandre Blansché
+Temps d'apprentissage : 00:00:00.002
+Durée d'une prise de décision : 00:00:00.000
+Usage mémoire : 12.6 KiB
+Usage mémoire maximum : 1.0 MiB
+
+7 bots ont été instanciés
+Durée du chargement : 00:00:07.280
+Mémoire utilisée : 1.6 MiB
+
+Que le championnat commence !
+
+Affrontement 1/21
+First vs. Random
+Score : 1.28 - 1.67
+Random a gagné
+Nombre de coups joués : 151.725 par match
+Durée : 00:00:00.000 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 2/21
+First vs. Last
+Score : 0.0 - 3.0
+Last a gagné
+Nombre de coups joués : 291.5 par match
+Durée : 00:00:00.000 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 3/21
+First vs. MinMax
+Score : 0.0 - 3.0
+MinMax a gagné
+Nombre de coups joués : 40.83 par match
+Durée : 00:00:01.269 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 4/21
+First vs. k-NN2
+Score : 0.31 - 2.68
+k-NN2 a gagné
+Nombre de coups joués : 194.05 par match
+Durée : 00:00:00.001 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 5/21
+First vs. NegaMax
+Score : 0.0 - 3.0
+NegaMax a gagné
+Nombre de coups joués : 39.8 par match
+Durée : 00:00:01.729 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 6/21
+First vs. k-NN1
+Score : 0.84 - 2.16
+k-NN1 a gagné
+Nombre de coups joués : 194.305 par match
+Durée : 00:00:00.000 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 7/21
+Random vs. Last
+Score : 0.16 - 2.83
+Last a gagné
+Nombre de coups joués : 114.07 par match
+Durée : 00:00:00.000 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 8/21
+Random vs. MinMax
+Score : 0.0 - 3.0
+MinMax a gagné
+Nombre de coups joués : 34.44 par match
+Durée : 00:00:00.967 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 9/21
+Random vs. k-NN2
+Score : 0.34 - 2.62
+k-NN2 a gagné
+Nombre de coups joués : 80.815 par match
+Durée : 00:00:00.000 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 10/21
+Random vs. NegaMax
+Score : 0.0 - 3.0
+NegaMax a gagné
+Nombre de coups joués : 36.14 par match
+Durée : 00:00:01.411 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 11/21
+Random vs. k-NN1
+Score : 0.28 - 2.71
+k-NN1 a gagné
+Nombre de coups joués : 79.755 par match
+Durée : 00:00:00.000 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 12/21
+Last vs. MinMax
+Score : 0.0 - 3.0
+MinMax a gagné
+Nombre de coups joués : 54.81 par match
+Durée : 00:00:01.803 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 13/21
+Last vs. k-NN2
+Score : 2.94 - 0.06
+Last a gagné
+Nombre de coups joués : 121.45 par match
+Durée : 00:00:00.000 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 14/21
+Last vs. NegaMax
+Score : 0.0 - 3.0
+NegaMax a gagné
+Nombre de coups joués : 56.41 par match
+Durée : 00:00:03.712 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 15/21
+Last vs. k-NN1
+Score : 2.59 - 0.4
+Last a gagné
+Nombre de coups joués : 127.43 par match
+Durée : 00:00:00.000 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 16/21
+MinMax vs. k-NN2
+Score : 3.0 - 0.0
+MinMax a gagné
+Nombre de coups joués : 40.17 par match
+Durée : 00:00:01.309 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 17/21
+MinMax vs. NegaMax
+Score : 0.06 - 2.94
+NegaMax a gagné
+Nombre de coups joués : 72.39 par match
+Durée : 00:00:04.163 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 18/21
+MinMax vs. k-NN1
+Score : 3.0 - 0.0
+MinMax a gagné
+Nombre de coups joués : 39.07 par match
+Durée : 00:00:01.146 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 19/21
+k-NN2 vs. NegaMax
+Score : 0.0 - 3.0
+NegaMax a gagné
+Nombre de coups joués : 42.34 par match
+Durée : 00:00:01.508 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 20/21
+k-NN2 vs. k-NN1
+Score : 1.47 - 1.53
+k-NN1 a gagné
+Nombre de coups joués : 82.6 par match
+Durée : 00:00:00.000 par match
+Mémoire utilisée : 1.5 MiB
+
+Affrontement 21/21
+NegaMax vs. k-NN1
+Score : 3.0 - 0.0
+NegaMax a gagné
+Nombre de coups joués : 48.22 par match
+Durée : 00:00:02.420 par match
+Mémoire utilisée : 1.4 MiB
+
+Durée du championnat : 01:11:30.299
+
+Scores finaux :
+First : 2.43
+Random : 2.45
+Last : 11.36
+MinMax : 15.06
+k-NN2 : 6.83
+NegaMax : 17.94
+k-NN1 : 6.8
+
+Rangs :
+1. NegaMax : 17.94
+2. MinMax : 15.06
+3. Last : 11.36
+4. k-NN2 : 6.83
+5. k-NN1 : 6.8
+6. Random : 2.45
+7. First : 2.43
