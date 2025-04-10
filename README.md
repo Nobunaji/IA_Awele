@@ -48,9 +48,9 @@ The project includes several bots with different strategies:
     ```
 
 3. **Run**:
-```sh
-java -cp "lib/*:out" awele.run.Main
-```
+   ```sh
+   java -cp "lib/*:out" awele.run.Main
+   ```
 
 ## Features
 
