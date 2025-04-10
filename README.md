@@ -5,6 +5,29 @@ This project implements an AI-based system to play the traditional African board
 ## Project Structure
 
 The project is organized as follows:
+Collecting workspace information```markdown
+# Awalé AI Project
+
+This project implements an AI-based system to play the traditional African board game **Awalé**. The project includes various bots that use different algorithms to make decisions during gameplay. The main focus is on creating competitive bots that can participate in tournaments and evaluate their performance against other bots.
+
+## Project Structure
+
+The project is organized as follows:
+
+```
+.
+├── data/                  # Contains game data for training and evaluation
+├── docs/                  # Documentation and reports
+├── lib/                   # External libraries (e.g., Javassist, Reflections)
+├── src/                   # Source code
+│   ├── awele/             # Main package for the Awalé game
+│   │   ├── bot/           # AI bots for the game
+│   │   ├── core/          # Core game logic and mechanics
+│   │   ├── data/          # Data handling for game observations
+│   │   ├── output/        # Output handling for logs and debugging
+│   │   └── run/           # Main entry point for the application
+└── README.md              # Project documentation
+```
 
 ## Key Components
 
