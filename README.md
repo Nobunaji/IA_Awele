@@ -63,10 +63,10 @@ The project includes several bots with different strategies:
 1. Create a new class in the src/awele/bot/competitor/ directory.
 2. Extend the CompetitorBot class.
 3. Implement the required methods:
-  - initialize()
-  - learn()
-  - getDecision(Board board)
-  - finish()
+     - initialize()
+     - learn()
+     - getDecision(Board board)
+     - finish()
 
 4. Add your bot to the tournament in Main.
 
